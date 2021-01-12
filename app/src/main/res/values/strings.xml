@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SuperFood</string>
+    <string-array name="Companies">
+        <item>Walmart</item>
+        <item>UTD</item>
+        <item>Target</item>
+        <item>Boomer\'s Association</item>
+        <item>Amazon</item>
+        <item>Microsoft</item>
+        <item>okay Boomer</item>
+    </string-array>
+    <string-array name="Time">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string name="title_activity_regular_user_home_screen">Regular_user_home_screen</string>
+    <string name="image">package com.example.superfood.image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
